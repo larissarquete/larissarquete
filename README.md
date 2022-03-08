@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com vendas.
 - 📚 Estudando JavaScript, CSS e HTML.
-- 📫 Contate-me no e-mail: arquetelarissa@gmail.com
+- 📫 Contate-me no e-mail: lararquete@gmail.com
 - 🧚‍♀ Pronomes: ela/dela.
 
 <div align="center">
