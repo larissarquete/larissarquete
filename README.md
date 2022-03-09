@@ -8,11 +8,12 @@
 <div align="center">
   <a href="https://github.com/larissarquete">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larissarquete&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissarquete&layout=compact&langs_count=7&theme=radical"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissarquete&layout=compact&langs_count=7&theme=radical"/> -->
 </div>
+  <br/>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Larissa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <div align="center">
+  <img align="center"alt="Larissa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Larissa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Larissa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
